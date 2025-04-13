@@ -12,38 +12,32 @@ To install `matplotlib`, run the following command:
 
 ```
 pip install matplotlib
-
 ```
 
 ## How to Play
-### Start the Game:
+### Start the Game using:
 
-When you run the game, it will ask you how many games you want to play.
+```
+python3 Black Jack 2 player with class.py
+```
 
-You will also choose the game speed (Normal or Fast).
+### When you run the game, it will ask you the following:
+1. How many games you want to play.
+2. Game speed (Normal or Fast).
 
-Betting:
-
+### Betting:
 You start with 500 units of money.
-
 For each game, you place a bet (between 1 and 20 units).
 
-Gameplay:
-
+### Gameplay:
 Both you and the dealer are dealt two cards.
-
 You will be asked to choose between "Hit" (get another card) or "Stand" (keep your current hand).
-
 If your hand total exceeds 21, you lose (bust).
-
 The dealer will follow the rules to play their hand automatically (drawing cards until reaching at least 17).
 
-End of Round:
-
+### End of Round:
 If you win, your balance is updated with your bet.
-
 If you lose, your balance decreases by the bet amount.
-
 A graph showing the dealer's winning chances based on their first card is generated at the end of the game.
 
 
