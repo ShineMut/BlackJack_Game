@@ -12,8 +12,10 @@ To install `matplotlib`, run the following command:
 
 ```bash
 pip install matplotlib
-How to Play
-Start the Game:
+```bash
+
+## How to Play
+### Start the Game:
 
 When you run the game, it will ask you how many games you want to play.
 
