@@ -10,9 +10,10 @@ This is a simple text-based Blackjack game written in Python where you play agai
 
 To install `matplotlib`, run the following command:
 
-```bash
+```
 pip install matplotlib
-```bash
+
+```
 
 ## How to Play
 ### Start the Game:
